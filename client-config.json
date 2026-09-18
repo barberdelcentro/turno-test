@@ -1,7 +1,7 @@
 {
-    "barberiaName": "Barber del Centro",
-    "primaryColor": "#ff1839",
+    "barberiaName": "Barbería Test",
+    "primaryColor": "#1e88e5",
     "countryCode": "54",
-    "horarioApertura": 10,
-    "horarioCierre": 20
+    "horarioApertura": 9,
+    "horarioCierre": 19
 }
